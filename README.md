@@ -1,3 +1,6 @@
+![Python_desktop_organizer](https://github.com/user-attachments/assets/360b7d95-dc64-4039-b47c-0842c6df10b7)
+![python_file_organizer2](https://github.com/user-attachments/assets/725147d1-412f-440c-bfb6-8a32e8c3ee91)
+
 Desktop File Organizer
 Project Overview
 
@@ -45,7 +48,7 @@ Running from Source
 
     bash
 
-git clone https://github.com/yourusername/Desktop-File-Organizer.git
+git clone https://github.com/Daniel-KK-world/File-Organizer.git
 
 Install the required dependencies:
 
@@ -96,4 +99,3 @@ Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
